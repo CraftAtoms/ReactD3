@@ -38,6 +38,7 @@
     "pretty-quick": "pretty-quick"
   },
   "devDependencies": {
+    "@architect/sandbox": "^3.3.3",
     "@storybook/addon-actions": "^4.0.0-alpha.20",
     "@storybook/react": "^4.0.0-alpha.20",
     "core-js": "^2.5.7",
